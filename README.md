@@ -35,3 +35,8 @@
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/SocketIO/socketio3.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb3.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/SQLite/sqlite1.svg">
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="res/my_portafolio.png">
+    <img alt="Portfolio button" src="res/my_portafolio.png">
+  </picture>
