@@ -6,9 +6,12 @@
 </p>
 
 <p align="center">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows2.svg">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/macOS/macos1.svg">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux3.svg">
+
+  <a>
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows2.svg">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/macOS/macos1.svg">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux3.svg">
+  </a>
 
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android2.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/iOS/ios1.svg">
