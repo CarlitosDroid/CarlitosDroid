@@ -6,10 +6,9 @@
 </p>
 
 <p align="center">
- <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows2.svg">
- <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/macOS/macos1.svg">
- <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux3.svg">
-</p>
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows2.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/macOS/macos1.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux3.svg">
 
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android2.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/iOS/ios1.svg">
@@ -36,7 +35,13 @@
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb3.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/SQLite/sqlite1.svg">
 
+</p>
+
+<a>
+
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="res/my_portafolio.png">
     <img alt="Portfolio button" src="res/my_portafolio.png">
   </picture>
+  
+</a>
