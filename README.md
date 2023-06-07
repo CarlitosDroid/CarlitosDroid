@@ -1,7 +1,7 @@
 <p align="center">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="res/CarlitosDroid.png">
-      <img alt="Repository 1" src="res/CarlitosDroid.png">
+      <source media="(prefers-color-scheme: dark)" srcset="res/carlitosdroid_logo.png">
+      <img alt="Repository 1" src="res/carlitosdroid_logo.png">
     </picture>
 </p>
 
@@ -40,8 +40,8 @@
 <a>
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="res/my_portafolio.png">
-    <img alt="Portfolio button" src="res/my_portafolio.png">
+    <source media="(prefers-color-scheme: dark)" srcset="res/portafolio_logo.png">
+    <img alt="Portfolio button" src="res/portafolio_logo.png">
   </picture>
-  
+
 </a>
