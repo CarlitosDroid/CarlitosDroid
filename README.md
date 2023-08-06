@@ -40,11 +40,9 @@
 
 </p>
 
-<a>
-
+<a href="https://carlitosdroid-gzzc6o6a6q-uc.a.run.app">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="res/portafolio_logo.png">
     <img alt="Portfolio button" src="res/portafolio_logo.png">
   </picture>
-
 </a>
